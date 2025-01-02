@@ -117,9 +117,9 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "**Associate Professor** in the Department of Civil Systems Engineering at Gyeongsang National University."
   location         : |
-  "33-Dongjin-ro, Jinju,"
-  "Gyeongnam 52725,"
-  "Republic of Korea"
+    "33-Dongjin-ro, Jinju,"
+    "Gyeongnam 52725,"
+    "Republic of Korea"
   email            : "yh.choi@gnu.ac.kr"
   links:
     - label: "Email"
