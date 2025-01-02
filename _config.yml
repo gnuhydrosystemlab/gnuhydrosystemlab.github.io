@@ -113,11 +113,37 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Yong Hwn Choi"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : |
+    Associate Professor in the Department of Civil System Engineering, Gyeongsang National University.  
+    Ph.D. in Civil Engineering (Water Resources Engineering) from Korea University.  
+    Expert in water resource systems reliability, smart water grids, and AI-based system optimization.
+  location         : "33-Dongjin-ro, Jinju, Gyeongnam 52725, Republic of Korea"
+  email            : "yh.choi@gnu.ac.kr"
+  education:
+    - degree: Ph.D.
+      university: Korea University
+      department: Civil Engineering (Water Resources Engineering)
+    - degree: M.S.
+      university: Korea University
+      department: Civil Engineering (Water Resources Engineering)
+    - degree: B.S.
+      university: Hanyang University
+      department: Civil Engineering
+  experience:
+    - position: Associate Professor
+      organization: Department of Civil System Engineering, Gyeongsang National University
+    - position: Postdoctoral Research Associate
+      organization: University of Arizona
+    - position: Research Professor
+      organization: Disaster Prevention Research Institute, Korea University
+  research_interests:
+    - Modeling and analysis of reliability and resilience in water resource systems
+    - Design, operation, and management of water supply and wastewater systems
+    - Optimization algorithms (Multi-objective/Self-adaptive Optimization)
+    - Smart water grids
+    - AI-based design and operation of water distribution systems
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
