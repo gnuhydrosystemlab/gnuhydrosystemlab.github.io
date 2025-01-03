@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Yong Hwn Choi"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/prof_photo.png"
   bio              : "**Associate Professor** in the Department of Civil Systems Engineering at Gyeongsang National University."
   location         : |
     "33-Dongjin-ro, Jinju,"
