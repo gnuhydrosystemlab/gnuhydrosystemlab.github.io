@@ -1,6 +1,6 @@
 ---
 title: "Archive Layout with Content"
-layout: page
+layout: home
 permalink: /about/
 ---
 
