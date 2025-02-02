@@ -2,6 +2,7 @@
 layout: post
 title: "About Us"
 permalink: /about/
+author_profile: true
 ---
 
 # About GNU Hydro System Lab
