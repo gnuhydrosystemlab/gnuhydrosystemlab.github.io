@@ -2,8 +2,8 @@
 main:
   - title: "About"
     url: https://gnuhydrosystemlab.github.io/about/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Blog"
+    url: https://gnuhydrosystemlab.github.io/blog/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
